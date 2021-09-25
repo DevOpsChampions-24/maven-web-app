@@ -10,8 +10,7 @@
 </head>
 <body>
 <h1 align="center">Landmark Technologies</h1>
-<h2 align="center"> Welcome to the altimate DevOps Champions Technology Platform. 
-	The Altimate DevOps Champions Technology platform is a platform of senior DevOps and Cloud Engineers aimed at automation. 
+
 	We offer interview preparations and job assitance.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
