@@ -12,8 +12,9 @@
 <h1 align="center">Landmark Technologies</h1>
 
 	We offer interview preparations and job assitance.
-	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
+	I must be hired, The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
+<h2> This is what JAVA class gave to me. I must be a devops engineer by the grace of God</h2>
 <div style="text-align: center;">
 	<span>
 		<img src="images/log4.png" alt="" width="100">
